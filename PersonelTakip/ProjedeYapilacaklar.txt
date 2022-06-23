@@ -1,0 +1,14 @@
+﻿Personel Kayit icin tutulacak alanlar
+1- Ad Soyad
+2- TcNo
+3- Gsm
+4- e-posta
+5- Adres 
+   5.1 - Sehir
+   5.2 - Ilce 
+   5.3 - Mahalle
+   5.4 - Cadde
+   5.5 - Sokak
+   5.6 - KapıNo
+6- Cinsiyet
+7- DogumTarihi
